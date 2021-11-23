@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+}
+
+#head {
+    font-size: 36px;
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+* {
+    font-family: 'Calibri';
+}
+
+.input {
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 20px;
+    margin: 15px 0px;
+    width: 89.5%;
+}
+
+#subtitle {
+    font-size: 11px;
+    font-style: italic;
+    margin-bottom: 40px;
+    text-align: center;
+    color: white;
+}
+
+form {
+    background-color: #286C84;
+    border-radius: 8px;
+    padding: 30px;
+    margin: 80px 490px;
+}
+
+.signup {
+    margin: 80px 490px;
+    text-align: center;
+}
+
+.login {
+    margin: 80px 490px;
+    text-align: center;
+}
+
+.special {
+    color: #7ee2e9;
+}
+
+.link {
+    background-color: #286C84;
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+input[type="submit"] {
+    border: none;
+    padding: 20px 20px;
+    margin-top: 30px;
+    background-color: #7ee2e9;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    width: 99.8%;
+}
+
+.data {
+    background-color: #286C84;
+    border-radius: 8px;
+    padding: 25px 40px;
+    margin: 10px 350px 30px 350px;
+    text-align: left;
+}
+
+#email {
+    font-size: 30px;
+    color: white;
+    padding-bottom: 10px;
+}
+
+#dummy {
+    font-size: 22px;
+    color: white;
+    font-style: italic;
+    margin-bottom: 25px;
+}
